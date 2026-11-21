@@ -1,0 +1,15 @@
+menu "Weather station configuration"
+
+config WEATHER_WIFI_SSID
+    string "Wi-Fi SSID"
+    default "YOUR_WIFI_SSID"
+
+config WEATHER_WIFI_PASSWORD
+    string "Wi-Fi password"
+    default "YOUR_WIFI_PASSWORD"
+
+config WEATHER_THINGSPEAK_API_KEY
+    string "ThingSpeak write API key"
+    default "YOUR_THINGSPEAK_API_KEY"
+
+endmenu

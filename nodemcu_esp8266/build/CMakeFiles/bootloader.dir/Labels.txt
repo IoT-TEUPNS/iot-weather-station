@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/vash/ESP32-Projects/iot-weather-station/nodemcu_esp8266/build/CMakeFiles/bootloader
+/home/vash/ESP32-Projects/iot-weather-station/nodemcu_esp8266/build/CMakeFiles/bootloader.rule
+/home/vash/ESP32-Projects/iot-weather-station/nodemcu_esp8266/build/CMakeFiles/bootloader-complete.rule
+/home/vash/ESP32-Projects/iot-weather-station/nodemcu_esp8266/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/vash/ESP32-Projects/iot-weather-station/nodemcu_esp8266/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/vash/ESP32-Projects/iot-weather-station/nodemcu_esp8266/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/vash/ESP32-Projects/iot-weather-station/nodemcu_esp8266/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/vash/ESP32-Projects/iot-weather-station/nodemcu_esp8266/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/vash/ESP32-Projects/iot-weather-station/nodemcu_esp8266/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/vash/ESP32-Projects/iot-weather-station/nodemcu_esp8266/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

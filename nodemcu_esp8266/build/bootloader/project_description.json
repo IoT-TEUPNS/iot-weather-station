@@ -1,0 +1,18 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/home/vash/esp/ESP8266_RTOS_SDK/components/bootloader/subproject",
+    "build_dir":          "/home/vash/ESP32-Projects/iot-weather-station/nodemcu_esp8266/build/bootloader",
+    "config_file":        "/home/vash/ESP32-Projects/iot-weather-station/nodemcu_esp8266/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v3.4-dirty",
+    "phy_data_partition": "",
+    "monitor_baud" : "74880",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "/home/vash/esp/ESP8266_RTOS_SDK/components/esp8266/Kconfig;/home/vash/esp/ESP8266_RTOS_SDK/components/esp_common/Kconfig;/home/vash/esp/ESP8266_RTOS_SDK/components/log/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "/home/vash/esp/ESP8266_RTOS_SDK/components/bootloader/Kconfig.projbuild;/home/vash/esp/ESP8266_RTOS_SDK/components/esptool_py/Kconfig.projbuild;/home/vash/esp/ESP8266_RTOS_SDK/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "esp8266", "esp_common", "esptool_py", "log", "main", "partition_table", "spi_flash", "" ],
+    "build_component_paths" : [ "/home/vash/esp/ESP8266_RTOS_SDK/components/bootloader", "/home/vash/esp/ESP8266_RTOS_SDK/components/bootloader_support", "/home/vash/esp/ESP8266_RTOS_SDK/components/esp8266", "/home/vash/esp/ESP8266_RTOS_SDK/components/esp_common", "/home/vash/esp/ESP8266_RTOS_SDK/components/esptool_py", "/home/vash/esp/ESP8266_RTOS_SDK/components/log", "/home/vash/esp/ESP8266_RTOS_SDK/components/bootloader/subproject/main", "/home/vash/esp/ESP8266_RTOS_SDK/components/partition_table", "/home/vash/esp/ESP8266_RTOS_SDK/components/spi_flash", "" ]
+}

@@ -1,0 +1,13 @@
+# Target labels
+ mconf-idf
+# Source files and their labels
+/home/vash/ESP32-Projects/iot-weather-station/nodemcu_esp8266/build/CMakeFiles/mconf-idf
+/home/vash/ESP32-Projects/iot-weather-station/nodemcu_esp8266/build/CMakeFiles/mconf-idf.rule
+/home/vash/ESP32-Projects/iot-weather-station/nodemcu_esp8266/build/CMakeFiles/mconf-idf-complete.rule
+/home/vash/ESP32-Projects/iot-weather-station/nodemcu_esp8266/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-build.rule
+/home/vash/ESP32-Projects/iot-weather-station/nodemcu_esp8266/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-configure.rule
+/home/vash/ESP32-Projects/iot-weather-station/nodemcu_esp8266/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-download.rule
+/home/vash/ESP32-Projects/iot-weather-station/nodemcu_esp8266/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-install.rule
+/home/vash/ESP32-Projects/iot-weather-station/nodemcu_esp8266/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-mkdir.rule
+/home/vash/ESP32-Projects/iot-weather-station/nodemcu_esp8266/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-patch.rule
+/home/vash/ESP32-Projects/iot-weather-station/nodemcu_esp8266/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-update.rule
